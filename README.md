@@ -1,2 +1,4 @@
 # cgue19-snowform
-TU Wien university project for the Computer Graphics course
+TU Vienna Computer Graphics Project 2019.
+
+![Snowform Preview](./preview/screenshot-snowform.png?raw=true "Snowform")
